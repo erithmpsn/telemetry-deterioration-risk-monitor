@@ -79,7 +79,7 @@ simulation. Features include:
 - **Outcome:** `deterioration_event` (binary)
 
 The outcome was generated using a logistic model with clinically motivated weights,
-producing a deterioration rate of approximately 39.7%.
+producing a deterioration rate of approximately 8.4%.
 
 ---
 
