@@ -200,8 +200,8 @@ MSHI Candidate — University of Alabama at Birmingham
 Clinical Research Data Coordinator — UAB O'Neal Comprehensive Cancer Center
 Former Lead Telemetry Technician & Cardiac Monitoring Specialist
 
-[![LinkedIn](https://www.linkedin.com/in/checkoutericthompson/)
-[![GitHub]([https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/yourhandle](https://github.com/erithmpsn))
+[LinkedIn](https://www.linkedin.com/in/checkoutericthompson/)
+
 
 ---
 
