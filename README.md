@@ -184,6 +184,13 @@ telemetry-risk-monitor/
 - [ ] Investigate prospective validation pathway at UAB O'Neal / UAB Medicine
 - [ ] Formalize gray zone escalation taxonomy for sociotechnical human factors study
 
+## Model Performance
+
+![ROC Curve](roc_curve.png)
+
+## Feature Importance
+
+![Feature Coefficients](feature_coefficients.png)
 ---
 
 ## Author
